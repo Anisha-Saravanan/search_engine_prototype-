@@ -44,7 +44,3 @@ python search_engine_prototype.py
 ```
 
 The CLI allows you to build an index from `.txt` files, search documents, get autocomplete suggestions, save/load indexes, and view document snippets.
-
-## Author
-
-**Anisha Saravanan**
